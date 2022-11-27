@@ -1,6 +1,9 @@
 # React-Node.js-MySQL-CRUD
 CRUD Real-world Project from scratch(using Node.js and React). Create, Read, Update and Delete data using a MySQL database. 
 
+# the project is stopped for the moment due to lack of free time
+
+
 
 //https://dev.mysql.com/
 
