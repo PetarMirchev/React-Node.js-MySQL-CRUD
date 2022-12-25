@@ -17,4 +17,6 @@ CRUD Real-world Project from scratch(using Node.js and React). Create, Read, Upd
 
 ![gitMySQL-4](https://user-images.githubusercontent.com/73035495/209466310-9b13c338-6620-4b95-8a1f-05eaa11f2ba0.jpg)
 
+create new Schema, whit R click mause:
+![gitMySQL-5](https://user-images.githubusercontent.com/73035495/209466442-bba3a4d2-796e-4a4c-9c9b-1a554ca8d5e6.jpg)
 
