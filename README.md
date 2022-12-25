@@ -21,3 +21,7 @@ connect to DB server:
 create new Schema, with R click mоuse:
 ![gitMySQL-5](https://user-images.githubusercontent.com/73035495/209466442-bba3a4d2-796e-4a4c-9c9b-1a554ca8d5e6.jpg)
 
+creating a new table:
+![gitMySQL-6](https://user-images.githubusercontent.com/73035495/209466811-695de4fd-c8ec-4267-947f-0f3b6a448866.jpg)
+
+
