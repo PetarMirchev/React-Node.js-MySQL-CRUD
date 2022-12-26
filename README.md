@@ -50,7 +50,9 @@ creating a new table:
 //npm i nodemon
 
 Postman test :
-![gitMySQL-7](https://user-images.githubusercontent.com/73035495/209551948-93fbfb00-161a-4fc8-8480-935f2169ea61.jpg)
+![json post](https://user-images.githubusercontent.com/73035495/209553297-db016307-0ce2-4f3e-a18a-8a289f94bfd0.jpg)
+//middleware -- allow us to send JSON (from POSTMAN for example) data to EXPRESS server: 
+app.use(express.json());
 
 
 
