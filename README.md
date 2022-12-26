@@ -24,4 +24,21 @@ create new Schema, with R click mоuse:
 creating a new table:
 ![gitMySQL-6](https://user-images.githubusercontent.com/73035495/209466811-695de4fd-c8ec-4267-947f-0f3b6a448866.jpg)
 
+//if there is a auth problem in -->  app.get("/books",....)
+
+// Execute the following query in MYSQL Workbench:
+
+//ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root(password)'; <-----
+
+//Where root as your user localhost as your URL and password as your password
+
+//Then run this query to refresh privileges:
+
+//flush privileges;  <----
+
+//Try connecting using node after you do so.
+
+//If that doesn't work, try it without @'localhost' part.
+
+
 
