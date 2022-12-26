@@ -40,5 +40,14 @@ creating a new table:
 
 //If that doesn't work, try it without @'localhost' part.
 
+# BACKEND packages:
+//npm init -y
+
+//npm i express
+
+//npm i mysql
+
+//npm i nodemon
+
 
 
