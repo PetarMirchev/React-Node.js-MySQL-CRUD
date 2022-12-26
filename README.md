@@ -51,8 +51,7 @@ creating a new table:
 
 Postman test :
 ![json post](https://user-images.githubusercontent.com/73035495/209553297-db016307-0ce2-4f3e-a18a-8a289f94bfd0.jpg)
-//middleware -- allow us to send JSON (from POSTMAN for example) data to EXPRESS server: 
-app.use(express.json());
+//middleware -- allow us to send JSON (from POSTMAN for example) data to EXPRESS server: --->  app.use(express.json());
 
 
 
