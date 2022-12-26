@@ -49,5 +49,10 @@ creating a new table:
 
 //npm i nodemon
 
+Postman test :
+![gitMySQL-7](https://user-images.githubusercontent.com/73035495/209551948-93fbfb00-161a-4fc8-8480-935f2169ea61.jpg)
+
+
+
 
 
