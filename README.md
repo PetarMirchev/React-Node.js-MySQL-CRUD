@@ -61,6 +61,13 @@ Postman test :
 
 //npm i axios
 
+![gitFront-1](https://user-images.githubusercontent.com/73035495/209673721-d313759f-38cf-4d5d-81d1-d8799ceed3b5.jpg)
+![gitFront-2](https://user-images.githubusercontent.com/73035495/209673729-aeef7e8b-9737-4877-b7ec-13d873065c8a.jpg)
+![gitFront-3](https://user-images.githubusercontent.com/73035495/209673730-bf303df4-b9d7-4e49-a051-25921dbb3b38.jpg)
+![gitFront-4](https://user-images.githubusercontent.com/73035495/209673773-d66ad35e-548b-494b-b805-07b0da170f2f.jpg)
+
+
+
 
 
 
